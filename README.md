@@ -30,7 +30,7 @@ public class TwoSum {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter your value ");
+        System.out.println("Enter your value =");
 
         int target = sc.nextInt();
         s.towsum(arr, n, target);
